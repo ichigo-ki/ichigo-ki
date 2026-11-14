@@ -11,6 +11,12 @@
 
 ## 🛠️ Languages & Technologies
 
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,php,html,css,js,django,laravel,mysql,postgres,git,github,vscode" />
+</p>
+
 ### Programming Languages
 - Python (Learning)
 - Java (Learning)
@@ -50,17 +56,5 @@
 ### Currently Working On
 - 🛒 **Student Shop** — Developing a web-based student shopping platform using Python, Django, and Object-Oriented Programming (OOP) principles as part of my coursework.
 - 🏥 **Medical Clinic Management System** — Developing a web-based hospital management system using PHP, Laravel, and modern web technologies as part of my Web and Internet Technologies coursework.
-<!--
-**ichigo-ki/ichigo-ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
