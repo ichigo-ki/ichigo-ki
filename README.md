@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering student at the University of Central Asia.
+- 🎓 Computer Science student at the University of Central Asia.
 - 💻 Interested in Full-Stack Development and Software Engineering.
 - 🌱 Currently improving my programming and problem-solving skills.
 - 🚀 Enjoy learning new technologies and building projects.
