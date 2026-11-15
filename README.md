@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Aslan
 
-### Software Engineering Student | Aspiring Full-Stack Developer
+### Computer Science Student | Aspiring Full-Stack Developer
 
 ## 👨‍💻 About Me
 
