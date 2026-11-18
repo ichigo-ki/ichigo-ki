@@ -40,7 +40,7 @@
 
 ## Currently Learning
 
-- Object-Oriented Programming (OOP)
+- Object-Oriented Programming(OOP)
 - Frontend Development
 - Backend Development
 - JavaScript
