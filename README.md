@@ -1,17 +1,17 @@
-# Hey there! 👋 I'm Aslan
+# Hey there! I'm Aslan
 
 ### Aspiring Backend Developer | Computer Science Student
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Computer Science student at the University of Central Asia.
-- 💻 Interested in Full-Stack Development and Software Engineering.
-- 🌱 Currently improving my programming and problem-solving skills.
-- 🚀 Enjoy learning new technologies and building projects.
+- Computer Science student at the University of Central Asia.
+- Interested in Full-Stack Development and Software Engineering.
+- Currently improving my programming and problem-solving skills.
+- Enjoy learning new technologies and building projects.
 
-## 🛠️ Languages & Technologies
+## Languages & Technologies
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,php,html,css,js,django,laravel,mysql,postgres,git,github,vscode" />
@@ -38,7 +38,7 @@
 - IntelliJ IDEA
 - Laragon (Learning)
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Object-Oriented Programming (OOP)
 - Frontend Development
@@ -47,14 +47,14 @@
 - Database Management
 - Problem-Solving & Data Structures
 
-## 🚀 Projects
+## Projects
 
 ### Completed
-- 🐍 **Python Web Parser** — An automated job vacancy scraper and data processor developed using Python. It extracts job postings from HeadHunter.kg and outputs them to the console or a CSV file.
-- ☕ **Student Management System** — A Java-based student management system developed as part of my coursework.
+- **Python Web Parser** — An automated job vacancy scraper and data processor developed using Python. It extracts job postings from HeadHunter.kg and outputs them to the console or a CSV file.
+- **Student Management System** — A Java-based student management system developed as part of my coursework.
 
 ### Currently Working On
-- 🛒 **Student Shop** — Developing a web-based student shopping platform using Python, Django, and Object-Oriented Programming (OOP) principles as part of my coursework.
-- 🏥 **Medical Clinic Management System** — Developing a web-based hospital management system using PHP, Laravel, and modern web technologies as part of my Web and Internet Technologies coursework.
+- **Student Shop** — Developing a web-based student shopping platform using Python, Django, and Object-Oriented Programming (OOP) principles as part of my coursework.
+- **Medical Clinic Management System** — Developing a web-based hospital management system using PHP, Laravel, and modern web technologies as part of my Web and Internet Technologies coursework.
 
 
